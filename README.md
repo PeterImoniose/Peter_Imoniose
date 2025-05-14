@@ -1,81 +1,85 @@
-# 👋 Hi, I'm Avwerosuo Peter Imoniose! 
+# 👋 Hi there, I'm Avwerosuo Peter Imoniose!
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist with a knack for solving problems and building impactful projects. I thrive on creating clean, efficient, and innovative solutions that make a difference.
+Welcome to my GitHub profile! I'm a passionate and results-driven **Data Scientist** with a strong foundation in mathematics and a growing portfolio of impactful, real-world projects. My mission is to leverage **AI, data analytics, and automation** to solve problems and improve the world around us.
 
 ---
 
 ## 🚀 About Me
-- I’m currently doing my mastets on Applied Data science in Engineering with fucus on developing Predictive Maintenance Model and reliable Digital Twin models. Along side my masters, i am learning the use of Maple Sim and  digital model tools, and also working on projects to improve my knowledge in the field.
-- I have undergone numerous practical training in Data Science and machine learning and obtained certifications.
-- 💬 Ask me about Python, Data Science and Machine Learning. 
-- 🎯 My goal is to become a ML and AI expert and to improve the world with the advancement of automation and AI.
+
+- 🔭 Currently pursuing a **Master’s in Applied Data Science in Engineering** at *Glasgow Caledonian University*, with a focus on **Predictive Maintenance** and **Digital Twin models**.
+- 💡 Skilled in using tools like **Google Colab**, **MapleSim**, **MySQL**, and **Python** for data modeling and simulation.
+- 🧠 Continuously expanding my technical skills—currently learning **MATLAB** and deepening my expertise in **machine learning** and **statistical analysis**.
+- 🎓 Background in **Industrial Mathematics** and experienced with applying mathematical analysis to complex engineering problems.
+- 💬 Ask me about Python, Data Science, Machine Learning, or how I revived a 2-year-dead CPU with my team!
+
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Tools
 
-### Programming Languages:
+### Programming & Analysis
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat)
 
-### Frameworks & Libraries:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+### Machine Learning & Statistics
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+Hypothesis Testing, Predictive Modeling
 
-### Tools & Platforms:
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+### Visualization
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2D3F73?style=flat)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat)
+
+### Tools & Platforms
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![MapleSim](https://img.shields.io/badge/-MapleSim-003366?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### [Project Name 1](https://github.com/Petrsuo/project-name)
-- **Description**: A brief description of what the project does and its purpose.
-- **Technologies**: Python, Flask, PostgreSQL
-- **Highlights**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+### [📊 Data Science Projects](https://github.com/Petrsuo/Data-Science-projects)
+- A collection of various data science and machine learning projects showcasing my growth and versatility.
+- Includes real-world datasets, model evaluation, and visualizations.
+- Tools: Python, Scikit-learn, Seaborn
 
-### [Project Name 2](https://github.com/Petrsuo/project-name)
-- **Description**: A brief description of what the project does and its purpose.
-- **Technologies**: React, Node.js, MongoDB
-- **Highlights**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+### [⛽ Fuel System Condition Analysis](https://github.com/Petrsuo/Analysis-of-the-condition-of-a-fuel-system)
+- Performed in-depth condition analysis of a fuel system using predictive modeling techniques.
+- Demonstrated early fault detection methods for preventive maintenance.
 
----
-
-## 🌟 Open Source Contributions
-
-- **[Project Name](https://github.com/contribution-project-link)**: Description of your contribution.
-- **[Project Name](https://github.com/contribution-project-link)**: Description of your contribution.
+### [🐍 Python Projects](https://github.com/Petrsuo/python-projects)
+- Miscellaneous Python scripts and mini-projects ranging from automation to data exploration.
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Petrsuo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petrsuo&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrsuo&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with Me
+## 📜 Certifications & Learning
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-## 🏆 Achievements
-
-- **[Certification Name](https://certification-link)**: Description or issuing organization.
-- **[Hackathon Name](https://hackathon-link)**: Description or accomplishment.
+- **Python with Data Science** – Early Code, Nigeria
+- **Introduction to Data Analytics** – Simplilearn Skillup
+- **Python for Beginners** – Simplilearn Skillup
+- **AI & Data Science Masterclass** – Simplilearn
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories or connect with me. Let's collaborate and build something amazing together! 😊
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:peterimoniose@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Petrsuo)
+
+---
+
+> *“Turning data into insight, and insight into action.”*
+
+Thank you for visiting my profile! Feel free to check out my repositories, drop a ⭐ if you find something useful, or reach out—I'm always open to collaboration and learning opportunities! 🚀
