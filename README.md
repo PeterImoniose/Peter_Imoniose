@@ -1,80 +1,82 @@
-# 👋 Hi there, I'm Avwerosuo Peter Imoniose!
+# 👋 Hi, I'm Avwerosuo Peter Imoniose
 
-Welcome to my GitHub profile! I'm a passionate and results-driven **Data Scientist** with a strong foundation in mathematics and a growing portfolio of impactful, real-world projects. My mission is to leverage **AI, data analytics, and automation** to solve problems and improve the world around us.
+I'm a **Data Scientist** with a strong foundation in mathematics and engineering, and a passion for building data-driven solutions that solve real-world problems.
+
+With hands-on experience in **machine learning, predictive maintenance, and data analytics**, I design practical systems that turn data into insight—and insight into action. From modeling equipment health to analyzing global salary trends, my goal is to create tools that drive smarter decisions and real impact.
+
+Currently pursuing my Master's in Applied Data Science in Engineering, I'm actively expanding a portfolio of applied projects that reflect my commitment to using **AI, automation, and statistical modeling** to optimize systems and empower people.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently pursuing a **Master’s in Applied Data Science in Engineering** at *Glasgow Caledonian University*, with a focus on **Predictive Maintenance** and **Digital Twin models**.
-- 💡 Skilled in using tools like **Google Colab**, **MapleSim**, **MySQL**, and **Python** for data modeling and simulation.
-- 🧠 Continuously expanding my technical skills—currently learning **MATLAB** and deepening my expertise in **machine learning** and **statistical analysis**.
-- 🎓 Background in **Industrial Mathematics** and experienced with applying mathematical analysis to complex engineering problems.
-- 💬 Ask me about Python, Data Science, Machine Learning, or how I revived a 2-year-dead CPU with my team!
+- 🎓 Master’s in Applied Data Science in Engineering, Glasgow Caledonian University  
+- 📊 Background in Industrial Mathematics and engineering systems  
+- 🛠️ Experienced in building Predictive Maintenance and Digital Twin solutions  
+- 💼 Worked as a Junior Data Scientist at Early Code, Nigeria  
+- 🔍 Passionate about transforming raw data into insight—and insight into action  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Technical Skills
 
-### Programming & Analysis
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat)
+**Languages & Tools:**  
+`Python`, `R`, `SQL`, `MATLAB`, `Scikit-Learn`, `Pandas`, `Seaborn`, `Plotly`, `Docker`, `Google Colab`, `MapleSim`, `Git`, `Streamlit`
 
-### Machine Learning & Statistics
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-Hypothesis Testing, Predictive Modeling
-
-### Visualization
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2D3F73?style=flat)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat)
-
-### Tools & Platforms
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![MapleSim](https://img.shields.io/badge/-MapleSim-003366?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+**Core Areas:**  
+Machine Learning · Predictive Modeling · Data Cleaning · Statistical Analysis · Feature Engineering · Visualization · Data Pipelines · Hypothesis Testing
 
 ---
 
 ## 📂 Featured Projects
 
-### [📊 Data Science Projects](https://github.com/Petrsuo/Data-Science-projects)
-- A collection of various data science and machine learning projects showcasing my growth and versatility.
-- Includes real-world datasets, model evaluation, and visualizations.
-- Tools: Python, Scikit-learn, Seaborn
+### 🔧 [Fuel System Condition Analysis](https://github.com/Petrsuo/Analysis-of-the-condition-of-a-fuel-system)
+Developed a predictive model to detect early signs of failure in fuel systems, enabling preventive maintenance and reducing system downtime.
 
-### [⛽ Fuel System Condition Analysis](https://github.com/Petrsuo/Analysis-of-the-condition-of-a-fuel-system)
-- Performed in-depth condition analysis of a fuel system using predictive modeling techniques.
-- Demonstrated early fault detection methods for preventive maintenance.
+**Skills Used:** Python · Scikit-learn · Matplotlib  
+**Focus:** Classification modeling, engineering simulation data, EDA
 
-### [🐍 Python Projects](https://github.com/Petrsuo/python-projects)
-- Miscellaneous Python scripts and mini-projects ranging from automation to data exploration.
+---
+
+### 💼 [Data Science Salary Analysis](https://github.com/Petrsuo/Data-Science-projects)
+Explored global salary trends in data science roles by experience level, job title, region, and remote work options. Created visual insights from a real-world Kaggle dataset.
+
+**Skills Used:** Pandas · Seaborn · Plotly · Data Cleaning  
+**Focus:** Exploratory data analysis, insights reporting, visualization
+
+---
+
+### 🧩 [Python Mini Projects](https://github.com/Petrsuo/python-projects)
+A collection of beginner-to-intermediate projects showcasing basic game logic, Streamlit web app structure, and user interaction.
+
+- 🎮 Rock-Paper-Scissors: Command-line game vs. computer  
+- 🎯 Number Guess: Randomized guessing game  
+- ❓ Quiz Game: Console-based trivia system  
+- 🧠 Streamlit Fraud Detection App (prototype)
+
+**Skills Used:** Python · Random · Input handling · Streamlit · Joblib
 
 ---
 
 ## 📈 GitHub Stats
 
-![Petrsuo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petrsuo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petrsuo&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrsuo&layout=compact&theme=radical)
 
 ---
 
-## 📜 Certifications & Learning
+## 🎓 Certifications
 
-- **Python with Data Science** – Early Code, Nigeria
-- **Introduction to Data Analytics** – Simplilearn Skillup
-- **Python for Beginners** – Simplilearn Skillup
-- **AI & Data Science Masterclass** – Simplilearn
+- Python with Data Science – Early Code  
+- Introduction to Data Analytics – Simplilearn  
+- Python for Beginners – Simplilearn  
+- AI & Data Science Career Masterclass – Simplilearn  
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/avwerosuo-imoniose-bbb3b915a)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:peterimoniose@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Petrsuo)
 
@@ -82,4 +84,4 @@ Hypothesis Testing, Predictive Modeling
 
 > *“Turning data into insight, and insight into action.”*
 
-Thank you for visiting my profile! Feel free to check out my repositories, drop a ⭐ if you find something useful, or reach out—I'm always open to collaboration and learning opportunities! 🚀
+Thanks for visiting my GitHub! Feel free to explore my work, star a project, or reach out—I'm always open to collaboration and learning opportunities.
