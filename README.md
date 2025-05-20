@@ -60,8 +60,8 @@ A collection of beginner-to-intermediate projects showcasing basic game logic, S
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petrsuo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrsuo&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peterimoniose&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peterimoniose&layout=compact&theme=radical)
 
 ---
 
