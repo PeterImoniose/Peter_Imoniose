@@ -1,87 +1,53 @@
-# 👋 Hi, I'm Avwerosuo Peter Imoniose
+# Avwerosuo Peter Imoniose
 
-I'm a **Data Scientist** with a strong foundation in mathematics and engineering, and a passion for building data-driven solutions that solve real-world problems.
+**Data Scientist** · MSc Applied Data Science in Engineering (Distinction) · Founder of [Ostrivo](https://ostrivo.app)
 
-With hands-on experience in **machine learning, predictive maintenance, and data analytics**, I design practical systems that turn data into insight, and insight into action. From modeling equipment health to analyzing global salary trends, my goal is to create tools that drive smarter decisions and real impact.
+I build models and data products that hold up on data they have never seen, and I report plainly when they
+do not. Most of my work is in predictive maintenance, condition monitoring and business analytics, from
+auditing messy data and building Python and SQL pipelines to modelling and reporting through dashboards and
+presentations. I also go back to finished work, review it critically and rebuild it, keeping the original public
+so the difference can be checked.
 
-Currently pursuing my Master's in Applied Data Science in Engineering, I'm actively expanding a portfolio of applied projects that reflect my commitment to using **AI, automation, and statistical modeling** to optimize systems and empower people.
+[CV](https://ostrivo.app/cv.html) · [Portfolio](https://ostrivo.app/portfolio.html) ·
+[LinkedIn](https://www.linkedin.com/in/avwerosuo-imoniose-bbb3b915a) · [Email](mailto:peterimoniose@gmail.com)
 
----
+## Selected work
 
-## 🚀 About Me
+| Project | Result |
+|---|---|
+| [Ostrivo](https://github.com/PeterImoniose/ostrivo) | Live business intelligence web app: upload a CSV or Excel file and get a cleaned dataset, dashboards, anomaly detection, forecasts and a plain-English summary |
+| [Wind turbine predictive maintenance](https://github.com/PeterImoniose/care-wind-turbine-predictive-maintenance-v2) | Fault detection and localisation from SCADA data; CARE score 0.619 across all 95 benchmark datasets under a leak-free protocol; research accepted at euspen SIC 2026 |
+| [Fuel system digital twin](https://github.com/PeterImoniose/fuel-system-digital-twin) | Physics-based health indicators separate all five rig faults; a classifier trained only on simulated faults reaches macro F1 0.87 on the real rig |
+| [Subway gate motor remaining life](https://github.com/PeterImoniose/phm2026-door-rul-prediction) | PHM Europe 2026 Data Challenge entry: survival prior plus gradient boosting, validated leave-one-run-out |
+| [Water pipe leak detection](https://github.com/PeterImoniose/water-leak-detection-generalisation) | Shows why near-perfect random-split scores fall to chance on an unseen pipe layout |
+| [Multimodal gait analysis](https://github.com/PeterImoniose/multimodal-gait-analysis) | Validates a wearable IMU suit against force plates, shows walking EEG is dominated by motion artefact, and tests re-identification across speeds |
+| [Industrial pump fleet](https://github.com/PeterImoniose/Industrial-Pump-Maintenance-Analysis) | Statistical testing shows the sensors carry no maintenance signal, before any model is deployed on them |
 
-- 🎓 Master’s in Applied Data Science in Engineering, Glasgow Caledonian University  
-- 📊 Background in Industrial Mathematics and engineering systems  
-- 🛠️ Experienced in building Predictive Maintenance and Digital Twin solutions  
-- 💼 Worked as a Junior Data Scientist at Early Code, Nigeria  
-- 🔍 Passionate about transforming raw data into insight, and insight into action  
+**Business analytics:** [Olist e-commerce](https://github.com/PeterImoniose/Olist) ·
+[Rossmann store sales](https://github.com/PeterImoniose/Rossmann) ·
+[Walmart sales](https://github.com/PeterImoniose/Walmart-recruiting) ·
+[Walmart store forecasting](https://github.com/PeterImoniose/Walmart-Store) ·
+[Online retail](https://github.com/PeterImoniose/Online-Retail-Analysis) ·
+[UK company registrations](https://github.com/PeterImoniose/Company-registration) ·
+[Airbnb Rio de Janeiro](https://github.com/PeterImoniose/Airbnb) ·
+[Data science salaries](https://github.com/PeterImoniose/Data-Science-projects)
 
----
+**Software and foundations:** [Password protection system](https://github.com/PeterImoniose/Password_protection_system) ·
+[Python projects](https://github.com/PeterImoniose/python-projects) ·
+[Python fundamentals course work](https://github.com/PeterImoniose/my-python-beginners-class)
 
-## 🛠️ Technical Skills
+## Experience
 
-**Languages & Tools:**  
-`Python`, `R`, `SQL`, `MATLAB`, `Scikit-Learn`, `Pandas`, `Seaborn`, `Plotly`, `Docker`, `Google Colab`, `MapleSim`, `Git`, `Streamlit`
+- **Founder and Developer, Ostrivo** (2026 - present): designed, built and deployed a business intelligence web app end to end.
+- **Research Data Scientist, Glasgow Caledonian University** (2025 - 2026): MSc research on SCADA-based predictive maintenance for wind turbines.
+- **Junior Data Scientist, Early Code, Nigeria** (2023 - 2025): client analytics, Python ETL, SQL reporting, Power BI dashboards and predictive models.
 
-**Core Areas:**  
-Machine Learning · Predictive Modeling · Data Cleaning · Statistical Analysis · Feature Engineering · Visualization · Data Pipelines · Hypothesis Testing
+## Education
 
----
+- MSc Applied Data Science in Engineering, Distinction, Glasgow Caledonian University (2026)
+- BSc Industrial Mathematics, Delta State University, Nigeria
 
-## 📂 Featured Projects
+## Tools
 
-### 🔧 [Fuel System Condition Analysis](https://github.com/Petrsuo/Analysis-of-the-condition-of-a-fuel-system)
-Developed a predictive model to detect early signs of failure in fuel systems, enabling preventive maintenance and reducing system downtime.
-
-**Skills Used:** Python · Scikit-learn · Matplotlib  
-**Focus:** Classification modeling, engineering simulation data, EDA
-
----
-
-### 💼 [Data Science Salary Analysis](https://github.com/Petrsuo/Data-Science-projects)
-Explored global salary trends in data science roles by experience level, job title, region, and remote work options. Created visual insights from a real-world Kaggle dataset.
-
-**Skills Used:** Pandas · Seaborn · Plotly · Data Cleaning  
-**Focus:** Exploratory data analysis, insights reporting, visualization
-
----
-
-### 🧩 [Python Mini Projects](https://github.com/Petrsuo/python-projects)
-A collection of beginner-to-intermediate projects showcasing basic game logic, Streamlit web app structure, and user interaction.
-
-- 🎮 Rock-Paper-Scissors: Command-line game vs. computer  
-- 🎯 Number Guess: Randomized guessing game  
-- ❓ Quiz Game: Console-based trivia system  
-- 🧠 Streamlit Fraud Detection App (prototype)
-
-**Skills Used:** Python · Random · Input handling · Streamlit · Joblib
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peterimoniose&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peterimoniose&layout=compact&theme=radical)
-
----
-
-## 🎓 Certifications
-
-- Python with Data Science - Early Code  
-- Introduction to Data Analytics - Simplilearn  
-- Python for Beginners - Simplilearn  
-- AI & Data Science Career Masterclass - Simplilearn  
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/avwerosuo-imoniose-bbb3b915a)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:peterimoniose@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Petrsuo)
-
----
-
-> *“Turning data into insight, and insight into action.”*
-
-Thanks for visiting my GitHub! Feel free to explore my work, star a project, or reach out; I'm always open to collaboration and learning opportunities.
+Python (pandas, NumPy, scikit-learn, PyTorch, LightGBM, XGBoost, statsmodels, SciPy), SQL, R, MATLAB, Power BI,
+Plotly, Streamlit, MapleSim, Docker, pytest, Git
