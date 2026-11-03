@@ -2,7 +2,7 @@
 
 I'm a **Data Scientist** with a strong foundation in mathematics and engineering, and a passion for building data-driven solutions that solve real-world problems.
 
-With hands-on experience in **machine learning, predictive maintenance, and data analytics**, I design practical systems that turn data into insight—and insight into action. From modeling equipment health to analyzing global salary trends, my goal is to create tools that drive smarter decisions and real impact.
+With hands-on experience in **machine learning, predictive maintenance, and data analytics**, I design practical systems that turn data into insight, and insight into action. From modeling equipment health to analyzing global salary trends, my goal is to create tools that drive smarter decisions and real impact.
 
 Currently pursuing my Master's in Applied Data Science in Engineering, I'm actively expanding a portfolio of applied projects that reflect my commitment to using **AI, automation, and statistical modeling** to optimize systems and empower people.
 
@@ -14,7 +14,7 @@ Currently pursuing my Master's in Applied Data Science in Engineering, I'm activ
 - 📊 Background in Industrial Mathematics and engineering systems  
 - 🛠️ Experienced in building Predictive Maintenance and Digital Twin solutions  
 - 💼 Worked as a Junior Data Scientist at Early Code, Nigeria  
-- 🔍 Passionate about transforming raw data into insight—and insight into action  
+- 🔍 Passionate about transforming raw data into insight, and insight into action  
 
 ---
 
@@ -67,10 +67,10 @@ A collection of beginner-to-intermediate projects showcasing basic game logic, S
 
 ## 🎓 Certifications
 
-- Python with Data Science – Early Code  
-- Introduction to Data Analytics – Simplilearn  
-- Python for Beginners – Simplilearn  
-- AI & Data Science Career Masterclass – Simplilearn  
+- Python with Data Science - Early Code  
+- Introduction to Data Analytics - Simplilearn  
+- Python for Beginners - Simplilearn  
+- AI & Data Science Career Masterclass - Simplilearn  
 
 ---
 
@@ -84,4 +84,4 @@ A collection of beginner-to-intermediate projects showcasing basic game logic, S
 
 > *“Turning data into insight, and insight into action.”*
 
-Thanks for visiting my GitHub! Feel free to explore my work, star a project, or reach out—I'm always open to collaboration and learning opportunities.
+Thanks for visiting my GitHub! Feel free to explore my work, star a project, or reach out; I'm always open to collaboration and learning opportunities.
